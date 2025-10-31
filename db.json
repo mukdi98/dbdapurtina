@@ -1,21 +1,9 @@
 {
   "categories": [
-    {
-      "id": "1",
-      "nama": "Paket"
-    },
-    {
-      "id": "2",
-      "nama": "Makanan"
-    },
-    {
-      "id": "3",
-      "nama": "Minuman"
-    },
-    {
-      "id": "4",
-      "nama": "Cemilan"
-    }
+    { "id": "1", "nama": "Paket" },
+    { "id": "2", "nama": "Makanan" },
+    { "id": "3", "nama": "Minuman" },
+    { "id": "4", "nama": "Cemilan" }
   ],
   "products": [
     {
@@ -25,309 +13,38 @@
       "harga": 25000,
       "is_ready": true,
       "gambar": "https://i.ibb.co.com/9SDZky7/nasi-goreng-telor.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
+      "category": { "nama": "Makanan" }
     },
     {
       "id": "2",
-      "kode": "K-02",
-      "nama": "Nasi Rames",
-      "harga": 18000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/75RQfxr/nasi-rames.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "3",
-      "kode": "K-03",
-      "nama": "Lontong Opor",
-      "harga": 15500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/mrSGHT42/lontong-opor-ayam.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "4",
-      "kode": "K-04",
-      "nama": "Mie Goreng",
-      "harga": 23000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/gpy3Mr6/mie-goreng.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "5",
-      "kode": "K-06",
-      "nama": "Bakso Urat",
-      "harga": 18500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/1G1mJ9rZ/bakso.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "6",
-      "kode": "K-06",
-      "nama": "Mie Ayam Bakso",
-      "harga": 24000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/9khVZ35n/mie-ayam-bakso.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "7",
-      "kode": "K-7",
-      "nama": "Spaghetti",
-      "harga": 22500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/hx7ccz9S/52eab3523d36.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "8",
-      "kode": "K-8",
-      "nama": "Mie Tek Tek",
-      "harga": 23000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/wr60VQ2w/MiTekTek.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "9",
-      "kode": "K-09",
-      "nama": "Kentang Goreng",
-      "harga": 15000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/Kpd5Pv2g/kentang-goreng.jpg",
-      "category": {
-        "nama": "Cemilan"
-      }
-    },
-    {
-      "id": "10",
-      "kode": "K-010",
-      "nama": "Cheese Burger",
-      "harga": 23000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/1f4vp9RQ/cheese-burger.jpg",
-      "category": {
-        "nama": "Cemilan"
-      }
-    },
-    {
-      "id": "11",
-      "kode": "K-011",
-      "nama": "Jagung Bakar",
-      "harga": 10000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/6cB6S5fP/Jagung-bakar.jpg",
-      "category": {
-        "nama": "Cemilan"
-      }
-    },
-    {
-      "id": "12",
-      "kode": "K-12",
-      "nama": "Pangsit Goreng",
-      "harga": 12500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/wrpJdfCx/pangsit.jpg",
-      "category": {
-        "nama": "Cemilan"
-      }
-    },
-    {
-      "id": "13",
       "kode": "K-13",
       "nama": "Kopi SoeSoe",
       "harga": 18000,
       "is_ready": true,
       "gambar": "https://i.ibb.co.com/j9v3kdFp/Kopsu.jpg",
-      "category": {
-        "nama": "Minuman"
-      }
+      "category": { "nama": "Minuman" }
     },
     {
-      "id": "14",
-      "kode": "K-14",
-      "nama": "Citrus Cold Brew",
-      "harga": 12500,
+      "id": "3",
+      "kode": "K-09",
+      "nama": "Kentang Goreng",
+      "harga": 15000,
       "is_ready": true,
-      "gambar": "https://i.ibb.co.com/wFZP2RfF/p-shutterstock-1351320746.jpg",
-      "category": {
-        "nama": "Minuman"
-      }
+      "gambar": "https://i.ibb.co.com/Kpd5Pv2g/kentang-goreng.jpg",
+      "category": { "nama": "Cemilan" }
     },
     {
-      "id": "15",
-      "kode": "K-15",
-      "nama": "Salted Latte",
-      "harga": 22500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/FbNzg6Yz/images.jpg",
-      "category": {
-        "nama": "Minuman"
-      }
-    },
-    {
-      "id": "16",
-      "kode": "K-16",
-      "nama": "Hot Latte",
-      "harga": 22500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/67JqS8W5/Vanilla-Latte.jpg",
-      "category": {
-        "nama": "Minuman"
-      }
-    },
-    {
-      "id": "17",
+      "id": "4",
       "kode": "K-17",
-      "nama": "Paket Spesial 1 (Nasi Goreng Telur, Kopi SoeSoe, Kentang Goreng)",
-      "harga": 75000,
+      "nama": "Paket Spesial (Nasi Goreng Telur, Kopi SoeSoe, Kentang Goreng)",
+      "harga": 65000,
       "is_ready": true,
       "gambar": "https://i.ibb.co.com/9SDZky7/nasi-goreng-telor.jpg",
-      "category": {
-        "nama": "Paket"
-      },
+      "category": { "nama": "Paket" },
       "produk_paket": [
-        {
-          "id": "1",
-          "nama": "Nasi Goreng Telur",
-          "category": {
-            "nama": "Makanan"
-          }
-        },
-        {
-          "id": "13",
-          "nama": "Kopi SoeSoe",
-          "category": {
-            "nama": "Minuman"
-          }
-        },
-        {
-          "id": "9",
-          "nama": "Kentang Goreng",
-          "category": {
-            "nama": "Cemilan"
-          }
-        }
-      ]
-    },
-    {
-      "id": "18",
-      "kode": "K-18",
-      "nama": "Paket Spesial 2 (Lontong Opor, Citrus Cold Brew, Pangsit Goreng)",
-      "harga": 85000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/mrSGHT42/lontong-opor-ayam.jpg",
-      "category": {
-        "nama": "Paket"
-      },
-      "produk_paket": [
-        {
-          "id": "3",
-          "nama": "Lontong Opor",
-          "category": {
-            "nama": "Makanan"
-          }
-        },
-        {
-          "id": "14",
-          "nama": "Citrus Cold Brew",
-          "category": {
-            "nama": "Minuman"
-          }
-        },
-        {
-          "id": "12",
-          "nama": "Pangsit Goreng",
-          "category": {
-            "nama": "Cemilan"
-          }
-        }
-      ]
-    },
-    {
-      "id": "19",
-      "kode": "K-19",
-      "nama": "Paket Spesial 3 (Mie Ayam Bakso, Salted Latte, Jagung Bakar)",
-      "harga": 92000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/9khVZ35n/mie-ayam-bakso.jpg",
-      "category": {
-        "nama": "Paket"
-      },
-      "produk_paket": [
-        {
-          "id": "6",
-          "nama": "Mie Ayam Bakso",
-          "category": {
-            "nama": "Makanan"
-          }
-        },
-        {
-          "id": "15",
-          "nama": "Salted Latte",
-          "category": {
-            "nama": "Minuman"
-          }
-        },
-        {
-          "id": "11",
-          "nama": "Jagung Bakar",
-          "category": {
-            "nama": "Cemilan"
-          }
-        }
-      ]
-    },
-    {
-      "id": "20",
-      "kode": "K-20",
-      "nama": "Paket Spesial 4 (Mie Goreng, Hot Latte, Cheese Burger)",
-      "harga": 100000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/gpy3Mr6/mie-goreng.jpg",
-      "category": {
-        "nama": "Paket"
-      },
-      "produk_paket": [
-        {
-          "id": "4",
-          "nama": "Mie Goreng",
-          "category": {
-            "nama": "Makanan"
-          }
-        },
-        {
-          "id": "16",
-          "nama": "Hot Latte",
-          "category": {
-            "nama": "Minuman"
-          }
-        },
-        {
-          "id": "10",
-          "nama": "Cheese Burger",
-          "category": {
-            "nama": "Cemilan"
-          }
-        }
+        { "id": "1", "nama": "Nasi Goreng Telur", "category": { "nama": "Makanan" } },
+        { "id": "2", "nama": "Kopi SoeSoe", "category": { "nama": "Minuman" } },
+        { "id": "3", "nama": "Kentang Goreng", "category": { "nama": "Cemilan" } }
       ]
     }
   ],
@@ -337,266 +54,28 @@
       "id": "7b6e",
       "tgl_pesan": "10/31/2025",
       "jam": "1:17:47 AM",
-      "total_bayar": 213000,
+      "total_bayar": 65000,
       "menus": [
         {
           "id": "cbfb",
           "jumlah": 1,
-          "total_harga": 18000,
+          "total_harga": 25000,
           "product": {
-            "id": "2",
-            "kode": "K-02",
-            "nama": "Nasi Rames",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/75RQfxr/nasi-rames.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "8806",
-          "jumlah": 1,
-          "total_harga": 15500,
-          "product": {
-            "id": "3",
-            "kode": "K-03",
-            "nama": "Lontong Opor",
-            "harga": 15500,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/mrSGHT42/lontong-opor-ayam.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "ce35",
-          "jumlah": 1,
-          "total_harga": 92000,
-          "product": {
-            "id": "19",
-            "kode": "K-19",
-            "nama": "Paket Spesial 3 (Mie Ayam Bakso, Salted Latte, Jagung Bakar)",
-            "harga": 92000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/9khVZ35n/mie-ayam-bakso.jpg",
-            "category": {
-              "nama": "Paket"
-            },
-            "produk_paket": [
-              {
-                "id": "6",
-                "nama": "Mie Ayam Bakso",
-                "category": {
-                  "nama": "Makanan"
-                }
-              },
-              {
-                "id": "15",
-                "nama": "Salted Latte",
-                "category": {
-                  "nama": "Minuman"
-                }
-              },
-              {
-                "id": "11",
-                "nama": "Jagung Bakar",
-                "category": {
-                  "nama": "Cemilan"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": "45d0",
-          "jumlah": 1,
-          "total_harga": 75000,
-          "product": {
-            "id": "17",
-            "kode": "K-17",
-            "nama": "Paket Spesial 1 (Nasi Goreng Telur, Kopi SoeSoe, Kentang Goreng)",
-            "harga": 75000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/9SDZky7/nasi-goreng-telor.jpg",
-            "category": {
-              "nama": "Paket"
-            },
-            "produk_paket": [
-              {
-                "id": "1",
-                "nama": "Nasi Goreng Telur",
-                "category": {
-                  "nama": "Makanan"
-                }
-              },
-              {
-                "id": "13",
-                "nama": "Kopi SoeSoe",
-                "category": {
-                  "nama": "Minuman"
-                }
-              },
-              {
-                "id": "9",
-                "nama": "Kentang Goreng",
-                "category": {
-                  "nama": "Cemilan"
-                }
-              }
-            ]
+            "id": "1",
+            "nama": "Nasi Goreng Telur",
+            "harga": 25000,
+            "category": { "nama": "Makanan" }
           }
         },
         {
           "id": "6ba4",
           "jumlah": 1,
-          "total_harga": 12500,
+          "total_harga": 40000,
           "product": {
-            "id": "12",
-            "kode": "K-12",
-            "nama": "Pangsit Goreng",
-            "harga": 12500,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/wrpJdfCx/pangsit.jpg",
-            "category": {
-              "nama": "Cemilan"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "id": "55f2",
-      "tgl_pesan": "10/31/2025",
-      "jam": "1:18:12 AM",
-      "total_bayar": 258500,
-      "menus": [
-        {
-          "id": "b06a",
-          "jumlah": 1,
-          "total_harga": 18500,
-          "product": {
-            "id": "5",
-            "kode": "K-06",
-            "nama": "Bakso Urat",
-            "harga": 18500,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/1G1mJ9rZ/bakso.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "8c56",
-          "jumlah": 1,
-          "total_harga": 25000,
-          "product": {
-            "id": "1",
-            "kode": "K-01",
-            "nama": "Nasi Goreng Telur",
-            "harga": 25000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/9SDZky7/nasi-goreng-telor.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "0cb9",
-          "jumlah": 1,
-          "total_harga": 100000,
-          "product": {
-            "id": "20",
-            "kode": "K-20",
-            "nama": "Paket Spesial 4 (Mie Goreng, Hot Latte, Cheese Burger)",
-            "harga": 100000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/gpy3Mr6/mie-goreng.jpg",
-            "category": {
-              "nama": "Paket"
-            },
-            "produk_paket": [
-              {
-                "id": "4",
-                "nama": "Mie Goreng",
-                "category": {
-                  "nama": "Makanan"
-                }
-              },
-              {
-                "id": "16",
-                "nama": "Hot Latte",
-                "category": {
-                  "nama": "Minuman"
-                }
-              },
-              {
-                "id": "10",
-                "nama": "Cheese Burger",
-                "category": {
-                  "nama": "Cemilan"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": "1e4f",
-          "jumlah": 1,
-          "total_harga": 92000,
-          "product": {
-            "id": "19",
-            "kode": "K-19",
-            "nama": "Paket Spesial 3 (Mie Ayam Bakso, Salted Latte, Jagung Bakar)",
-            "harga": 92000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/9khVZ35n/mie-ayam-bakso.jpg",
-            "category": {
-              "nama": "Paket"
-            },
-            "produk_paket": [
-              {
-                "id": "6",
-                "nama": "Mie Ayam Bakso",
-                "category": {
-                  "nama": "Makanan"
-                }
-              },
-              {
-                "id": "15",
-                "nama": "Salted Latte",
-                "category": {
-                  "nama": "Minuman"
-                }
-              },
-              {
-                "id": "11",
-                "nama": "Jagung Bakar",
-                "category": {
-                  "nama": "Cemilan"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": "f606",
-          "jumlah": 1,
-          "total_harga": 23000,
-          "product": {
-            "id": "10",
-            "kode": "K-010",
-            "nama": "Cheese Burger",
-            "harga": 23000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/1f4vp9RQ/cheese-burger.jpg",
-            "category": {
-              "nama": "Cemilan"
-            }
+            "id": "4",
+            "nama": "Paket Spesial",
+            "harga": 40000,
+            "category": { "nama": "Paket" }
           }
         }
       ]
@@ -607,7 +86,7 @@
       "id": "a2b3",
       "tgl_pesan": "3/8/2025",
       "jam": "2:08:56 PM",
-      "total_bayar": 268400,
+      "total_bayar": 92000,
       "menus": [
         {
           "id": "c903",
@@ -615,338 +94,24 @@
           "total_harga": 25000,
           "product": {
             "id": "1",
-            "kode": "K-01",
             "nama": "Nasi Goreng Telur",
             "harga": 25000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/9SDZky7/nasi-goreng-telor.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "9eaa",
-          "jumlah": 1,
-          "total_harga": 18000,
-          "product": {
-            "id": "2",
-            "kode": "K-02",
-            "nama": "Nasi Rames",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/75RQfxr/nasi-rames.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
+            "category": { "nama": "Makanan" }
           }
         },
         {
           "id": "53a7",
           "jumlah": 1,
-          "total_harga": 23000,
-          "product": {
-            "id": "8",
-            "kode": "K-8",
-            "nama": "Mie Tek Tek",
-            "harga": 23000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/wr60VQ2w/MiTekTek.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "f10d",
-          "jumlah": 1,
-          "total_harga": 75000,
-          "product": {
-            "id": "17",
-            "kode": "K-17",
-            "nama": "Paket Spesial 1 (Nasi Goreng Telur, Kopi SoeSoe, Kentang Goreng)",
-            "harga": 75000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/9SDZky7/nasi-goreng-telor.jpg",
-            "category": {
-              "nama": "Paket"
-            },
-            "produk_paket": [
-              {
-                "id": "1",
-                "nama": "Nasi Goreng Telur",
-                "category": {
-                  "nama": "Makanan"
-                }
-              },
-              {
-                "id": "13",
-                "nama": "Kopi SoeSoe",
-                "category": {
-                  "nama": "Minuman"
-                }
-              },
-              {
-                "id": "9",
-                "nama": "Kentang Goreng",
-                "category": {
-                  "nama": "Cemilan"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": "c1f3",
-          "jumlah": 1,
-          "total_harga": 85000,
-          "product": {
-            "id": "18",
-            "kode": "K-18",
-            "nama": "Paket Spesial 2 (Lontong Opor, Citrus Cold Brew, Pangsit Goreng)",
-            "harga": 85000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/mrSGHT42/lontong-opor-ayam.jpg",
-            "category": {
-              "nama": "Paket"
-            },
-            "produk_paket": [
-              {
-                "id": "3",
-                "nama": "Lontong Opor",
-                "category": {
-                  "nama": "Makanan"
-                }
-              },
-              {
-                "id": "14",
-                "nama": "Citrus Cold Brew",
-                "category": {
-                  "nama": "Minuman"
-                }
-              },
-              {
-                "id": "12",
-                "nama": "Pangsit Goreng",
-                "category": {
-                  "nama": "Cemilan"
-                }
-              }
-            ]
-          }
-        },
-        {
-          "id": "ff9e",
-          "jumlah": 1,
-          "total_harga": 18000,
-          "product": {
-            "id": "13",
-            "kode": "K-13",
-            "nama": "Kopi SoeSoe",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/j9v3kdFp/Kopsu.jpg",
-            "category": {
-              "nama": "Minuman"
-            }
-          }
-        }
-      ],
-      "pajak": 24400
-    },
-    {
-      "id": "3c00",
-      "tgl_pesan": "3/8/2025",
-      "jam": "2:09:39 PM",
-      "total_bayar": 97350.00000000001,
-      "menus": [
-        {
-          "id": "8a9c",
-          "jumlah": 1,
-          "total_harga": 15000,
-          "product": {
-            "id": "9",
-            "kode": "K-09",
-            "nama": "Kentang Goreng",
-            "harga": 15000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/Kpd5Pv2g/kentang-goreng.jpg",
-            "category": {
-              "nama": "Cemilan"
-            }
-          }
-        },
-        {
-          "id": "0c38",
-          "jumlah": 1,
-          "total_harga": 23000,
-          "product": {
-            "id": "10",
-            "kode": "K-010",
-            "nama": "Cheese Burger",
-            "harga": 23000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/1f4vp9RQ/cheese-burger.jpg",
-            "category": {
-              "nama": "Cemilan"
-            }
-          }
-        },
-        {
-          "id": "b876",
-          "jumlah": 1,
-          "total_harga": 10000,
-          "product": {
-            "id": "11",
-            "kode": "K-011",
-            "nama": "Jagung Bakar",
-            "harga": 10000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/6cB6S5fP/Jagung-bakar.jpg",
-            "category": {
-              "nama": "Cemilan"
-            }
-          }
-        },
-        {
-          "id": "11b4",
-          "jumlah": 1,
-          "total_harga": 18000,
-          "product": {
-            "id": "13",
-            "kode": "K-13",
-            "nama": "Kopi SoeSoe",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/j9v3kdFp/Kopsu.jpg",
-            "category": {
-              "nama": "Minuman"
-            }
-          }
-        },
-        {
-          "id": "d95c",
-          "jumlah": 1,
-          "total_harga": 22500,
-          "product": {
-            "id": "16",
-            "kode": "K-16",
-            "nama": "Hot Latte",
-            "harga": 22500,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/67JqS8W5/Vanilla-Latte.jpg",
-            "category": {
-              "nama": "Minuman"
-            }
-          }
-        }
-      ],
-      "pajak": 8850
-    },
-    {
-      "id": "c634",
-      "tgl_pesan": "10/31/2025",
-      "jam": "1:18:33 AM",
-      "total_bayar": 144650,
-      "menus": [
-        {
-          "id": "baa7",
-          "jumlah": 1,
-          "total_harga": 23000,
+          "total_harga": 67000,
           "product": {
             "id": "4",
-            "kode": "K-04",
-            "nama": "Mie Goreng",
-            "harga": 23000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/gpy3Mr6/mie-goreng.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "00ee",
-          "jumlah": 1,
-          "total_harga": 23000,
-          "product": {
-            "id": "8",
-            "kode": "K-8",
-            "nama": "Mie Tek Tek",
-            "harga": 23000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/wr60VQ2w/MiTekTek.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "eafb",
-          "jumlah": 1,
-          "total_harga": 22500,
-          "product": {
-            "id": "7",
-            "kode": "K-7",
-            "nama": "Spaghetti",
-            "harga": 22500,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/hx7ccz9S/52eab3523d36.jpg",
-            "category": {
-              "nama": "Makanan"
-            }
-          }
-        },
-        {
-          "id": "2fb9",
-          "jumlah": 1,
-          "total_harga": 18000,
-          "product": {
-            "id": "13",
-            "kode": "K-13",
-            "nama": "Kopi SoeSoe",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/j9v3kdFp/Kopsu.jpg",
-            "category": {
-              "nama": "Minuman"
-            }
-          }
-        },
-        {
-          "id": "98b8",
-          "jumlah": 1,
-          "total_harga": 22500,
-          "product": {
-            "id": "15",
-            "kode": "K-15",
-            "nama": "Salted Latte",
-            "harga": 22500,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/FbNzg6Yz/images.jpg",
-            "category": {
-              "nama": "Minuman"
-            }
-          }
-        },
-        {
-          "id": "f5d7",
-          "jumlah": 1,
-          "total_harga": 22500,
-          "product": {
-            "id": "16",
-            "kode": "K-16",
-            "nama": "Hot Latte",
-            "harga": 22500,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/67JqS8W5/Vanilla-Latte.jpg",
-            "category": {
-              "nama": "Minuman"
-            }
+            "nama": "Paket Spesial",
+            "harga": 67000,
+            "category": { "nama": "Paket" }
           }
         }
       ],
-      "pajak": 13150
+      "pajak": 8200
     }
   ]
 }
