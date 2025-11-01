@@ -1,20 +1,16 @@
 {
   "categories": [
     {
-      "id": "1",
-      "nama": "Paket"
+      "id": "1","nama": "Paket"
     },
     {
-      "id": "2",
-      "nama": "Makanan"
+      "id": "2","nama": "Makanan"
     },
     {
-      "id": "3",
-      "nama": "Minuman"
+      "id": "3","nama": "Minuman"
     },
     {
-      "id": "4",
-      "nama": "Cemilan"
+      "id": "4","nama": "Cemilan"
     }
   ],
   "products": [
@@ -84,23 +80,17 @@
       },
       "produk_paket": [
         {
-          "id": "1",
-          "nama": "Nasi Goreng Telur",
-          "category": {
+          "id": "1","nama": "Nasi Goreng Telur","category": {
             "nama": "Makanan"
           }
         },
         {
-          "id": "12",
-          "nama": "Kopi SoeSoe",
-          "category": {
+          "id": "12","nama": "Kopi SoeSoe","category": {
             "nama": "Minuman"
           }
         },
         {
-          "id": "9",
-          "nama": "Kentang Goreng",
-          "category": {
+          "id": "9","nama": "Kentang Goreng","category": {
             "nama": "Cemilan"
           }
         }
@@ -209,7 +199,7 @@
                 }
               },
               {
-                "id": "13",
+                "id": "12",
                 "nama": "Kopi SoeSoe",
                 "category": {
                   "nama": "Minuman"
@@ -322,7 +312,7 @@
                 }
               },
               {
-                "id": "13",
+                "id": "12",
                 "nama": "Kopi SoeSoe",
                 "category": {
                   "nama": "Minuman"
@@ -382,13 +372,7 @@
           "jumlah": 1,
           "total_harga": 18000,
           "product": {
-            "id": "13",
-            "kode": "K-13",
-            "nama": "Kopi SoeSoe",
-            "harga": 18000,
-            "is_ready": true,
-            "gambar": "https://i.ibb.co.com/j9v3kdFp/Kopsu.jpg",
-            "category": {
+            "id": "13","kode": "K-12","nama": "Kopi SoeSoe","harga": 18000,"is_ready": true,"gambar": "https://i.ibb.co.com/j9v3kdFp/Kopsu.jpg","category": {
               "nama": "Minuman"
             }
           }
