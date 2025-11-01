@@ -85,28 +85,6 @@
       }
     },
     {
-      "id": "7",
-      "kode": "K-7",
-      "nama": "Spaghetti",
-      "harga": 22500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/hx7ccz9S/52eab3523d36.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
-      "id": "8",
-      "kode": "K-8",
-      "nama": "Mie Tek Tek",
-      "harga": 23000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/wr60VQ2w/MiTekTek.jpg",
-      "category": {
-        "nama": "Makanan"
-      }
-    },
-    {
       "id": "9",
       "kode": "K-09",
       "nama": "Kentang Goreng",
