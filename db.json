@@ -183,40 +183,6 @@
           }
         }
       ]
-    },
-    {
-      "id": "18",
-      "kode": "K-18",
-      "nama": "Paket Spesial 2 (Lontong Opor, Citrus Cold Brew, Pangsit Goreng)",
-      "harga": 85000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/mrSGHT42/lontong-opor-ayam.jpg",
-      "category": {
-        "nama": "Paket"
-      },
-      "produk_paket": [
-        {
-          "id": "3",
-          "nama": "Lontong Opor",
-          "category": {
-            "nama": "Makanan"
-          }
-        },
-        {
-          "id": "14",
-          "nama": "Citrus Cold Brew",
-          "category": {
-            "nama": "Minuman"
-          }
-        },
-        {
-          "id": "12",
-          "nama": "Pangsit Goreng",
-          "category": {
-            "nama": "Cemilan"
-          }
-        }
-      ]
     }
   ],
   "keranjang": [],
