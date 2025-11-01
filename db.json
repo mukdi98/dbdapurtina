@@ -109,17 +109,6 @@
     {
       "id": "11",
       "kode": "K-011",
-      "nama": "Jagung Bakar",
-      "harga": 10000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/6cB6S5fP/Jagung-bakar.jpg",
-      "category": {
-        "nama": "Cemilan"
-      }
-    },
-    {
-      "id": "12",
-      "kode": "K-12",
       "nama": "Pangsit Goreng",
       "harga": 12500,
       "is_ready": true,
@@ -157,17 +146,6 @@
       "harga": 22500,
       "is_ready": true,
       "gambar": "https://i.ibb.co.com/FbNzg6Yz/images.jpg",
-      "category": {
-        "nama": "Minuman"
-      }
-    },
-    {
-      "id": "16",
-      "kode": "K-16",
-      "nama": "Hot Latte",
-      "harga": 22500,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/67JqS8W5/Vanilla-Latte.jpg",
       "category": {
         "nama": "Minuman"
       }
