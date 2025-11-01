@@ -74,13 +74,7 @@
       }
     },
     {
-      "id": "6",
-      "kode": "K-06",
-      "nama": "Mie Ayam Bakso",
-      "harga": 24000,
-      "is_ready": true,
-      "gambar": "https://i.ibb.co.com/9khVZ35n/mie-ayam-bakso.jpg",
-      "category": {
+      "id": "6","kode": "K-06","nama": "Mie Ayam Bakso","harga": 24000,"is_ready": true,"gambar": "https://i.ibb.co.com/9khVZ35n/mie-ayam-bakso.jpg","category": {
         "nama": "Makanan"
       }
     },
